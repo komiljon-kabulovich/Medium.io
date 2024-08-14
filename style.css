@@ -1,0 +1,120 @@
+header{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo img {
+    width: 250px;
+}
+.logo{
+    width: 50%;
+}
+
+header .navbuttons a{
+    text-decoration: none;
+    color: black;
+    
+}
+.navbuttons{
+    width: 20%;
+    margin-left: 150px;
+    font-size: larger;
+    
+}
+.navbuttons .writeb{
+    margin-right: 20px;
+}
+.navbuttons .signupb{
+    margin-right: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: wheat;
+}
+
+.navbuttons .signinb{
+    margin-right: 20px;
+    
+}
+
+.firstpage{
+    align-items: center;
+    margin: auto;
+    width: 550px;
+
+}
+input[type="search"]{
+    width: 300px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    position: absolute;
+    top: 60px;
+}
+.secondpage img{
+width: 100%;
+}
+.secondpage p{
+    text-align: center;
+}
+.thirdpage p{
+    text-align: center;
+    margin: auto;
+    font-size: 23px;
+    width: 700px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.thirdpage mark{
+    background-color: chartreuse;
+}
+#l2{
+margin-top: 13px;
+text-align:left;
+}
+
+#l3{
+margin-top: 25px;
+border-left: 3px;
+text-align:left;
+}
+
+#l4{
+margin-top: 25px;
+text-align:left;
+}
+
+#l5{
+margin-top: 13px;
+text-align:left;
+margin-bottom: 20px;
+}
+#link1{
+    font-style: italic;
+    color: black;
+}
+
+.fourthpage img{
+    width: 100%;
+}
+.fourthpage p{
+text-align: center;
+}
+
+.fifthpage p{
+    text-align: center;
+    margin: auto;
+    font-size: 23px;
+    width:800px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#n1{
+    text-align: left;
+    background-color: bisque;
+}
+footer{
+    text-align: center;
+    margin: auto;
+    width: 550px;
+}
